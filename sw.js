@@ -1,6 +1,6 @@
 // 由 tools/publish.py 產生，勿手改。
 // 策略：網路優先（有網路就一定拿到最新行程），失敗才用快取；所以離線也能開。
-const CACHE = 'bkk-876771ee44';
+const CACHE = 'bkk-0bfc9e0f6c';
 const PRECACHE = ['./', 'index.html', 'manifest.webmanifest', 'icon-180.png', 'icon-192.png', 'icon-512.png'];
 
 self.addEventListener('install', (e) => {
