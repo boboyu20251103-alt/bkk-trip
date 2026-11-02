@@ -1,6 +1,6 @@
 // 由 tools/publish.py 產生，勿手改。
 // 網路優先；慢網路、斷線或 HTTP 錯誤退回安裝時完整快取。
-const CACHE = 'bkk-c5a458663c';
+const CACHE = 'bkk-36e45911cd';
 const PRECACHE = ['./', 'index.html', 'manifest.webmanifest', 'icon-180.png', 'icon-192.png', 'icon-512.png'];
 const NETWORK_TIMEOUT = 5000;
 
